@@ -1,0 +1,23 @@
+{
+  "name": "typescript-f",
+  "version": "1.0.0",
+  "description": "fundamentos de typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "f-scienza",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20"
+  }
+}
